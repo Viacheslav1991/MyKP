@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyCubeTwoPane</string>
+    <string name="tetrahedron_rotation_speed">Tetrahedron rotation speed</string>
+    <string name="sphere_rotation_speed">Sphere rotation speed</string>
+    <string name="zoomMinus">Zoom -</string>
+    <string name="zoomPlus">Zoom +</string>
+</resources>
